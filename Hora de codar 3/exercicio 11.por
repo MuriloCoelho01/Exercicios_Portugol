@@ -23,6 +23,6 @@ leia(num1)
 }
 
 }
-escreva(contagem," numeros estão entre 24 e 72 \n")
+escreva(contagem," numeros estÃ£o entre 24 e 42 \n")
   }
 }
